@@ -1,0 +1,17 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 42: expected '=' not found.
+    image Toni smile im.Scale("Aya_Sprite/Aya_smile.png",200,500)
+                                                                 ^
+
+File "game/script.rpy", line 43: expected '=' not found.
+    image Toni neutral im.Scale("Aya_Sprite/Aya_neutral.png",200,500)
+                                                                     ^
+
+File "game/script.rpy", line 44: expected '=' not found.
+    image Toni angry im.Scale("Aya_Sprite/Aya_angry.png",200,500)
+                                                                 ^
+
+Ren'Py Version: Ren'Py 6.99.4.467
